@@ -1,3 +1,5 @@
+"This is a vimrc for Linux and Mac, and manage the plugins with Vundle. If you have any questions or opinions, welcome to contact me on Github:[https://github.com/shinewithx] or by Email:[ericxia7@gmail.com]
+
 "Set Color theme
 colorscheme desert
 
@@ -32,7 +34,8 @@ nnoremap <ESC><ESC> :nohlsearch<cr>
 "Next buff shortcut
 nnoremap <C-Tab> :bnext<cr>
 
-"---Here the vundle setting begins
+
+"---Here is the vundle setting begins
 
 set nocompatible
 filetype off
@@ -86,6 +89,10 @@ Bundle 'Raimondi/delimitMate'
 
 filetype plugin indent on
 
-" The rest of your config follows here
-
 "---Here the vundle setting ends 
+
+"" The rest of your config follows here
+
+
+" Created by Eric
+" https://github.com/shinewithx/Vimrc

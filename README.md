@@ -37,7 +37,8 @@ You can install this vimrc in Windows system, just change the Vundle's path in v
 
 You can manage the plugins by typing `:BundleList` in vim. Select the plugin and press `d` to delete the plugin. Press `?` in Vundle to see help of Vundle.
 
-If you have any questions or opinions, welcome to contact me here or by Email:[ericxia7@gmail.com][email].
+If you have any questions or opinions, welcome to contact me here or by Email: [ericxia7@gmail.com][email].
+
 
 
 [vundle]: https://github.com/gmarik/vundle

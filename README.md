@@ -30,14 +30,14 @@ Enjoy it!
 
 ## About Windows ##
 
-You can install this vimrc in Windows system, just change the Vundle's path in vimrc to the path where your Vundle actual is. Or just view the latest introduction from [Vundle][vundle].
+You can install this vimrc in Windows system, just change the Vundle's path in vimrc to the path where your Vundle actually is. Or just view the latest introduction from [Vundle][vundle].
 
 
 ## Others ##
 
 You can manage the plugins by typing `:BundleList` in vim. Select the plugin and press `d` to delete the plugin. Press `?` in Vundle to see help of Vundle.
 
-f you have any questions or opinions, welcome to contact me here or by Email:[ericxia7@gmail.com][email].
+If you have any questions or opinions, welcome to contact me here or by Email:[ericxia7@gmail.com][email].
 
 
 [vundle]: https://github.com/gmarik/vundle

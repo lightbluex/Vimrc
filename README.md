@@ -1,7 +1,6 @@
 # Vimrc #
-=====
 
-This is a vimrc for linux or Mac (In fact you can also apply it on Windows, but just change the path of Vundle before apply it). This vimrc includes a lot of plugins and some useful settings, and manage the plugins with Vundle. 
+This is a vimrc for linux or Mac. This vimrc includes a lot of plugins and some useful settings, and manage the plugins with `Vundle`. (In fact you can also apply it on Windows, but just change the path of Vundle before apply it)
 
 This vimrc is mainly configured for JavaScript development. You may want to make it for many other usages, just add or change the contents as you like after you download it.
 
@@ -12,17 +11,17 @@ This vimrc is mainly configured for JavaScript development. You may want to make
 
 * Then install Vundle(a plugin manager using git)
 
-	git clone https://github.com/gmarik/vundle.git ~/.vim/bundle/vundle
+`git clone https://github.com/gmarik/vundle.git ~/.vim/bundle/vundle`
 
 * Clone this repository to a place you like
 
-	git clone https://github.com/shinewithx/Vimrc.git ~/vimrc
+`git clone https://github.com/shinewithx/Vimrc.git ~/vimrc`
 
 * Move the .vimrc file to root
 
-	mv ~/vimrc/.vimrc ~/.vimrc
+`mv ~/vimrc/.vimrc ~/.vimrc`
 
-* Now enter vim and  :BundleInstall
+* Now enter vim and  `:BundleInstall`
 
 * Quit and run vim again
 
@@ -36,7 +35,9 @@ You can install this vimrc in Windows system, just change the Vundle's path in v
 
 ## Others ##
 
-If you have any questions or opinions, welcome to contact me here or by Email:[ericxia7@gmail.com][email]
+You can manage the plugins by typing `:BundleList` in vim. Select the plugin and press `d` to delete the plugin. Press `?` in Vundle to see help of Vundle.
+
+f you have any questions or opinions, welcome to contact me here or by Email:[ericxia7@gmail.com][email].
 
 
 [vundle]: https://github.com/gmarik/vundle

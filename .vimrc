@@ -53,6 +53,13 @@ call vundle#rc()
 Bundle 'gmarik/vundle'
 Bundle 'scrooloose/nerdtree'
 
+Bundle 'kien/ctrlp.vim'
+"Set the shortcut
+let g:ctrlp_map = '<c-p>'
+let g:ctrlp_cmd = 'CtrlP'
+let g:ctrlp_working_path_mode = 'ra'
+"View help here: http://kien.github.com/ctrlp.vim/ 
+
 Bundle 'minibufexplorerpp'           
 " some setting for the buff move
 let g:miniBufExplMapWindowNavVim = 1 

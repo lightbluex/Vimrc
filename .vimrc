@@ -1,6 +1,6 @@
 "This is a vimrc for Linux and Mac, and manage the plugins with Vundle.
 "If you have any questions or opinions, welcome to contact me on 
-"Github: [https://github.com/shinewithx] or by Email:[ericxia7@gmail.com]
+"Github: [https://github.com/lightbluex] or by Email:[ericxia7@gmail.com]
 
 "Set Color theme
 colorscheme desert
@@ -104,4 +104,4 @@ filetype plugin indent on
 
 
 " Created by Eric
-" https://github.com/shinewithx/Vimrc
+" https://github.com/lightbluex/Vimrc

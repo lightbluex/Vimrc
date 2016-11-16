@@ -104,4 +104,4 @@ filetype plugin indent on
 
 
 " Created by Eric
-" https://github.com/lightbluex/Vimrc
+" https://github.com/lightbluex/vimrc
